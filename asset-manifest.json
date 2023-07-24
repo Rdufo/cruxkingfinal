@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cruxkingfinal/static/css/main.d439e40e.css",
+    "main.js": "/cruxkingfinal/static/js/main.8d1f4e1c.js",
+    "static/media/Sean-Bailey-celebrating-at-2021-SLC-World-Cup (1).jpeg": "/cruxkingfinal/static/media/Sean-Bailey-celebrating-at-2021-SLC-World-Cup (1).a4702d555b90f6a6bc4f.jpeg",
+    "static/media/LogoC.jpg": "/cruxkingfinal/static/media/LogoC.74e4cbc6a38e7dd09d0d.jpg",
+    "static/media/LT11_Talley_GymClimber_OlympicIs.sue_HighRes-5754.jpg": "/cruxkingfinal/static/media/LT11_Talley_GymClimber_OlympicIs.sue_HighRes-5754.332f4cd7ca9533f77ec8.jpg",
+    "static/media/ProfilePlaceholder.png": "/cruxkingfinal/static/media/ProfilePlaceholder.7a6a6c54279a54d1977c.png",
+    "static/media/climbGraph.png": "/cruxkingfinal/static/media/climbGraph.4b8f8c6e4655e5dddba7.png",
+    "index.html": "/cruxkingfinal/index.html",
+    "main.d439e40e.css.map": "/cruxkingfinal/static/css/main.d439e40e.css.map",
+    "main.8d1f4e1c.js.map": "/cruxkingfinal/static/js/main.8d1f4e1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d439e40e.css",
+    "static/js/main.8d1f4e1c.js"
+  ]
+}
